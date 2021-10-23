@@ -1,0 +1,2 @@
+_G.key = 'Evil-G7T574TYPG' 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EvilHub-Destroy/EvilScriptPaid/main/Script'))()

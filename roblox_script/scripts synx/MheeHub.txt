@@ -1,0 +1,3 @@
+getgenv().key = "6h8jnwK42l3N"
+getgenv().id = "540185899674370048"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BunnySalf/Pls-Don-t-Crack-me-Pls/main/Not_Full"))()

@@ -1,0 +1,7 @@
+_G.AutoFarmLevel = true -- true / false
+_G.AutoFarmModes = "Underground" -- "Underground"/ "Above"
+_G.HideName = true -- true / false
+_G.Hardcore = true -- true / false
+_G.AutoRety = true -- true / false
+_G.Auto_Skill = {"Skill 1","Skill 2","Skill 3","Skill 4"} -- {"Skill 1"} , {"Skill 1","Skill 2"} , etc..
+loadstring(game:HttpGet("https://pastebin.com/raw/D1ZBiM3k"))() 
